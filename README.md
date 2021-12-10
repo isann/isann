@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=isann&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isann&langs_count=5&exclude_repo=template_slim3_velocity_jsonic" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isann&layout=compact&langs_count=20&exclude_repo=template_slim3_velocity_jsonic" />
 </a>
 
 <br>
